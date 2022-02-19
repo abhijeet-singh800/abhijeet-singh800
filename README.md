@@ -7,13 +7,13 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)][Medium-Profile]
 [![Dev To Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)][DevTo-Profile]
 ---
-![Profile Banner](profile-banner.png)
+![Profile Banner](profile-banner.jpeg)
 ---
-People around me know me as a jolly guy who is passionate about evolving technologies.:computer:
-I love to learn new thing and looking for new friends, will be happy to hear your side of things.
-If you need contributors for repos based on the technologies listed below, I will be more than happy to help.:octocat:
-You can also check out my [Medium][Medium-Profile] and [Dev.to][DevTo-Profile] Blogs discussing topics Related to Computer Science or you can catch me while discussing random tipics on [Reddit][Reddit-Profile].
-To reach me directly you can check out my [Instagram Account][Instagram-Profile] or you can email me at abhijeet.singh800@outlook.com:mailbox_with_mail:
+People around me know me as a jolly guy who is passionate about evolving technologies.:computer:<br/>
+I love to learn new thing and looking for new friends, will be happy to hear your side of things.<br/>
+If you need contributors for repos based on the technologies listed below, I will be more than happy to help.:octocat:<br/>
+You can also check out my [Medium][Medium-Profile] and [Dev.to][DevTo-Profile] Blogs to read :bookmark_tabs::bookmark_tabs: topics related to Computer Science or you can catch me while discussing random tipics on [Reddit][Reddit-Profile].<br/>
+To reach me directly you can check out my [Instagram Account][Instagram-Profile] or you can email me at abhijeet.singh800@outlook.com:mailbox_with_mail:<br/>
 
 
 
