@@ -4,6 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_.abhi.singh/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/u/Plastic_Lynx1335?utm_medium=android_app&utm_source=share)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/abhijeet-singh-864b571aa)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ohyesabhi800)
+[![Dev To Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/abhijeet_800)
 ---
 ![Profile Banner](profile-banner.png)
 ---
