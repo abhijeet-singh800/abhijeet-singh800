@@ -23,6 +23,14 @@ To reach me directly you can check out my [Instagram Account][Instagram-Profile]
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 >I know its not much but I striving to be better day by day.
 
+####GitHub Stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeet_800&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet_800&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+
 
 [Medium-Profile]:https://medium.com/@ohyesabhi800
 [DevTo-Profile]:https://dev.to/abhijeet_800
