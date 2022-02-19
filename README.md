@@ -15,7 +15,7 @@ If you need contributors for repos based on the technologies listed below, I wil
 You can also check out my [Medium][Medium-Profile] and [Dev.to][DevTo-Profile] Blogs to read :bookmark_tabs: topics related to Computer Science or you can catch me while discussing random tipics on [Reddit][Reddit-Profile].<br/>
 To reach me directly you can check out my [Instagram Account][Instagram-Profile] or you can email me at abhijeet.singh800@outlook.com:mailbox_with_mail:<br/>
 
-####technologies
+#### Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
