@@ -9,16 +9,19 @@
 ---
 ![Profile Banner](profile-banner.jpeg)
 ---
-People around me know me as a jolly guy who is passionate about evolving technologies.:computer:<br/>
-I love to learn new thing and looking for new friends, will be happy to hear your side of things.<br/>
+People around me know me as a jolly guy who is passionate about new technologies.:computer:<br/>
+I love to learn new thing and looking for new friends, will be happy to hear your side of things.Exiting on :earth_africa: since 2003<br/>
 If you need contributors for repos based on the technologies listed below, I will be more than happy to help.:octocat:<br/>
-You can also check out my [Medium][Medium-Profile] and [Dev.to][DevTo-Profile] Blogs to read :bookmark_tabs::bookmark_tabs: topics related to Computer Science or you can catch me while discussing random tipics on [Reddit][Reddit-Profile].<br/>
+You can also check out my [Medium][Medium-Profile] and [Dev.to][DevTo-Profile] Blogs to read :bookmark_tabs: topics related to Computer Science or you can catch me while discussing random tipics on [Reddit][Reddit-Profile].<br/>
 To reach me directly you can check out my [Instagram Account][Instagram-Profile] or you can email me at abhijeet.singh800@outlook.com:mailbox_with_mail:<br/>
 
-
-
-
-
+####technologies
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![HTML 5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+>I know its not much but I striving to be better day by day.
 
 
 [Medium-Profile]:https://medium.com/@ohyesabhi800
