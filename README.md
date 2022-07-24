@@ -12,7 +12,7 @@ People around me know me as a jolly guy who is passionate about new technologies
 I love to learn new thing and looking for new friends, will be happy to hear your side of things.Exiting on :earth_africa: since 2003<br/>
 If you need contributors for repos based on the technologies listed below, I will be more than happy to help.:octocat:<br/>
 You can also check out my [Medium][Medium-Profile] and [Dev.to][DevTo-Profile] Blogs to read :bookmark_tabs: topics related to Computer Science or you can catch me while discussing random tipics on [Reddit][Reddit-Profile].<br/>
-To reach me directly you can check out my [Instagram Account][Instagram-Profile] or you can email me at abhijeet.singh800@outlook.com:mailbox_with_mail:<br/>
+To reach me directly you can check out my [Twitter][Twitter-Profile] or you can email me at abhijeet.singh800@outlook.com:mailbox_with_mail:<br/>
 
 #### Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
