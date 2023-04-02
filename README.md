@@ -19,11 +19,19 @@ To reach me directly you can check out my [Twitter][twitter-profile] or you can 
 
 #### Technologies
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![HTML 5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)][python]
+[![HTML 5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)][html]
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)][css]
+[![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)][javascript]
+[![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)][markdown]
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)][django]
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][linux]
+[![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][shell]
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)][arduino]
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)][mysql]
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)][sqlite]
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)][vscode]
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)][vim]
 
 > I know its not much but I striving to be better day by day.
 
@@ -42,6 +50,20 @@ To reach me directly you can check out my [Twitter][twitter-profile] or you can 
 [devto-profile]: https://dev.to/abhijeet_800
 [linkedin-profile]: https://www.linkedin.com/mwlite/in/abhijeet-singh-864b571aa
 [reddit-profile]: https://www.reddit.com/u/Plastic_Lynx1335?utm_medium=android_app&utm_source=share
-[instagram-profile]: https:
 [twitter-profile]: https://www.twitter.com/abhijeet_800
 [github-profile]: https://github.com/abhijeet-singh800
+[python]: https://www.python.org/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javascript]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+[markdown]: https://www.markdownguide.org/
+[linux]: https://www.linuxfoundation.org/
+[shell]: https://www.gnu.org/software/bash/
+[arduino]: https://www.arduino.cc/
+[vscode]: https://code.visualstudio.com/
+[vim]: https://www.vim.org/
+[django]: https://www.djangoproject.com/
+[mysql]: https://www.mysql.com/
+[sqlite]: https://sqlite.org/index.html
+
+<!-- Dont Add Instagram ID as it can be used as an open source intellegence assert against you -->
