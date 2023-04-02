@@ -19,6 +19,7 @@ To reach me directly you can check out my [Twitter][twitter-profile] or you can 
 
 #### Technologies
 
+
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)][python]
 [![HTML 5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)][html]
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)][css]
@@ -33,14 +34,17 @@ To reach me directly you can check out my [Twitter][twitter-profile] or you can 
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)][vscode]
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)][vim]
 
+
 > I know its not much but I striving to be better day by day.
 
 #### GitHub Stats
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeet-singh800&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-singh800&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=3"/>  -->
   <!-- The above commented link is a "Most Used Languages" and should be fixed in a later date.Ideallt when you have enough code under your belt that it works properly-->
+
 </p>
 
 <!-- Also Add Recent Blogs after Some time -->
