@@ -1,17 +1,18 @@
-### Hello there, I'm ~~Obi Wan Kenobi~~ Abhijeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello there, I'm ~~Obi Wan Kenobi~~ Abhijeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
----
-
+<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" style="float: right; border-radius: 10px;" >
+</br></br>
 - Currently juggling my collage assignments with my intrests and sleep.<br/>
 - Was introduced to Linux in 2017 and it got hooked and now I spend my afternoons tinkering with my operating system.<br/>
 - Now I am looking for way to contribute back to the Open Source Community and making the things we use a little better everyday.<br/>
 - If you need contributors for repos based on the technologies listed below, I will be more than happy to help. <br/>
+  </br></br></br> </br>
 
+---
 
+### Technologies
 
-#### Technologies
-
-[![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)][python] 
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)][python]
 [![HTML 5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)][html] <br/>
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)][css]
 [![Java Script](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)][javascript]<br/>
@@ -28,7 +29,6 @@
 
 > I know its nothing impressive but its a work in progress.
 
-
 [python]: https://www.python.org/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -42,4 +42,3 @@
 [django]: https://www.djangoproject.com/
 [mysql]: https://www.mysql.com/
 [sqlite]: https://sqlite.org/index.html
-
