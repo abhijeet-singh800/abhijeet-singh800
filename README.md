@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there, I'm <del>Obi Wan Kenobi</del> Abhijeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" >
+<img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="400px" >
 <ul>
 <li>Currently juggling my collage assignments with my intrests and sleep.</li>
 <li>Was introduced to Linux in 2017 and it got hooked and now I spend my afternoons tinkering with my operating system.</li>
