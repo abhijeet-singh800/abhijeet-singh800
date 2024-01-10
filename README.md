@@ -1,13 +1,12 @@
 <h1 align="center"> Hello there, I'm <del>Obi Wan Kenobi</del> Abhijeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="400px" >
+<img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"  >
 <ul>
 <li>Currently juggling my collage assignments with my intrests and sleep.</li>
-<li>Was introduced to Linux in 2017 and it got hooked and now I spend my afternoons tinkering with my operating system.</li>
-<li>Now I am looking for way to contribute back to the Open Source Community and making the things we use a little better everyday.</li>
-<li>If you need contributors for repos based on the technologies listed below, I will be more than happy to help.</li>
+<li>Was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons tinkering with my operating system.</li>
+<li>Nowadays I am looking for way to contribute back to the Open Source Community and making the software we use a little better everyday.</li>
+<li>If anyone need contributors for repositories based on the technologies listed below, I will be more than happy to help.</li>
 </ul>
-</br>
 
 ---
 
@@ -26,7 +25,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="" href="https://www.mysql.com/" align="center">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="" href="https://sqlite.org/index.html" align="center">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" alt="" href="https://www.vim.org/" align="center">
-
 </div>
 <!-- Lean how to use the Img.shields.io to add more stuff when you learn them. -->
 <br/>
