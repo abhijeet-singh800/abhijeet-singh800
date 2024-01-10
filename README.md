@@ -2,9 +2,12 @@
 
 ---
 
-People around me know me as a jolly guy who is passionate about new technologies.:computer:<br/>
-I love to learn new thing and looking for new friends, will be happy to hear your side of things.Existing on :earth_africa: since 2003<br/>
-If you need contributors for repos based on the technologies listed below, I will be more than happy to help. <br/>
+- Currently juggling my collage assignments with my intrests and sleep.<br/>
+- Was introduced to Linux in 2017 and it got hooked and now I spend my afternoons tinkering with my operating system.<br/>
+- Now I am looking for way to contribute back to the Open Source Community and making the things we use a little better everyday.<br/>
+- If you need contributors for repos based on the technologies listed below, I will be more than happy to help. <br/>
+
+
 
 #### Technologies
 
@@ -21,8 +24,9 @@ If you need contributors for repos based on the technologies listed below, I wil
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)][sqlite]
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)][vim]<br/>
 
+<!-- Lean how to use the Img.shields.io to add more stuff when you learn them. -->
 
-> I know its not much but I striving to be better day by day.
+> I know its nothing impressive but its a work in progress.
 
 
 [python]: https://www.python.org/
