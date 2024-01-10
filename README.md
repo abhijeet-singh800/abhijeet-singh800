@@ -1,12 +1,12 @@
 <h1 align="center"> Hello there, I'm <del>Obi Wan Kenobi</del> Abhijeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"  >
-<ul>
-<li>Currently juggling my collage assignments with my intrests and sleep.</li>
-<li>Was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons tinkering with my operating system.</li>
-<li>Nowadays I am looking for way to contribute back to the Open Source Community and making the software we use a little better everyday.</li>
-<li>If anyone need contributors for repositories based on the technologies listed below, I will be more than happy to help.</li>
-</ul>
+
+Juggling my collage assignments with my intrests and sleep</br>
+Was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons tinkering with my operating system.</br>
+Currently I am looking for way to contribute back to the Open Source Community and making the software we use a little better everyday.</br>
+If anyone need contributors for repositories based on the technologies listed below, I will be more than happy to help.</br>
+
 
 ---
 
