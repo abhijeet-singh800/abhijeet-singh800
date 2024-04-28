@@ -29,4 +29,3 @@
 </div>
 <!-- Lean how to use the Img.shields.io to add more stuff when you learn them. -->
 <br/>
-<p align="center">I know its nothing impressive but its a work in progress.</p>
