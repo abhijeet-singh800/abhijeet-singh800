@@ -33,5 +33,5 @@
 <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="" href="https://react.dev/" align="center">
 <img src="https://img.shields.io/badge/Red%20Hat-crimson?style=flat&logo=red%20hat" alt="" href="https://www.redhat.com" align="center">
 </div>
-<!-- Lean how to use the Img.shields.io to add more stuff when you learn them. -->
+<!-- https://www.youtube.com/watch?v=4cgpu9L2AE8&t=357s watch this video to generate more badges using shields.io -->
 <br/>
