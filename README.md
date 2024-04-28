@@ -3,9 +3,8 @@
 <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"  >
 <ul>
 <li>Juggling my college assignments with my interests and sleep</li>
-<li>I was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons tinkering with my operating system.</li>
-<li>Currently I am looking for way to contribute back to the Open Source Community and making the software we use a little better everyday.</li>
-<li>If anyone need contributors for repositories based on the technologies listed below, I will be more than happy to help.</li>
+<li>I was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons either tinkering with my Linux distro or contributing to projects</li>
+<li>Currently I am looking for ways to contribute back to the Open Source Community and make the software we use a little better every day.</li>
 </ul>
 
 
