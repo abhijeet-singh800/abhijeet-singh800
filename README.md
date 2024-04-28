@@ -7,7 +7,7 @@
 <li>Currently I am looking for ways to contribute back to the Open Source Community and make the software we use a little better every day.</li>
 </ul>
 
-
+<br/>
 ---
 
 <h3 align="center">Technologies</h3>
