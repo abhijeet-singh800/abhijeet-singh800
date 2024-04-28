@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="" href="https://www.mysql.com/" align="center">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="" href="https://sqlite.org/index.html" align="center">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" alt="" href="https://www.vim.org/" align="center">
+<img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="" href="https://react.dev/" align="center">
+<img src="https://img.shields.io/badge/Red%20Hat-crimson?style=flat&logo=red%20hat" alt="" href="https://www.redhat.com" align="center">
 </div>
 <!-- Lean how to use the Img.shields.io to add more stuff when you learn them. -->
 <br/>
