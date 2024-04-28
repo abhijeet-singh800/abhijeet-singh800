@@ -4,7 +4,8 @@
 <ul>
 <li>Juggling my college assignments with my interests and sleep</li>
 <li>I was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons either tinkering with my Linux distro or contributing to projects</li>
-<li>I am looking forward to doing community work for projects that I love and use, so let's work together on exciting new projects and create great pieces of software for others to use and appreciate.  </li>
+<li>I am looking forward to doing community work for projects that I love and use, so let's work together on exciting new projects and create great pieces of software for the world to use and appreciate. </li>
+<li>One more thing, I have a few ideas that I am excited about, so stay connected for upcoming projects </li>
 </ul>
 
 ---
