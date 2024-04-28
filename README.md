@@ -1,12 +1,17 @@
 <h1 align="center"> Hello there, I'm <del>Obi Wan Kenobi</del> Abhijeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"  >
-<ul>
+<!-- <ul>
 <li>Juggling my college assignments with my interests and sleep</li>
 <li>I was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons either tinkering with my Linux distro or contributing to projects</li>
 <li>I am looking forward to doing community work for projects that I love and use, so let's work together on exciting new projects and create great pieces of software for the world to use and appreciate. </li>
 <li>One more thing, I have a few ideas that I am excited about, so stay connected for upcoming projects </li>
-</ul>
+</ul> -->
+<p>Juggling my college assignments with my interests and sleep</p>
+<p>I was introduced to Linux in 2017 and it got me hooked, now I spend my afternoons either tinkering with my Linux distro or contributing to projects</p>
+<p>I am looking forward to doing community work for projects that I love and use, so let's work together on exciting new projects and create great pieces of software for the world to use and appreciate. </p>
+<p>One more thing, I have a few ideas that I am excited about, so stay connected for upcoming projects </p>
+
 
 ---
 
